@@ -2,17 +2,24 @@
 body {
   padding-top: 0px;
   background-color:white;
-
 }
 
 #box {
   margin:00px auto auto auto;
   width:500px;
-  padding:50px 50px;
+  padding:0px 00px;
   background-color:white;
   overflow-wrap: break-word;
   color:black;
 }
+
+#box2 {
+  margin:auto auto auto auto;
+  width:750px;
+  padding:50px 50px;
+  background-color:white;
+  overflow-wrap: break-word;
+  color:black
 
 #footer {
   margin-top: 20px;
