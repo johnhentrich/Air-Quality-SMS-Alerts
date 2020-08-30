@@ -12,7 +12,7 @@ Include the link to your Devpost project page here: [Devpost](https://...)
 
 * **John Hentrich** - Devpost ID – Penn email – [GitHub](https://github.com/johnhentrich)
 * **Chin Jung Cheng** - chengcj – chengcj@seas.upenn.edu – [GitHub](https://github.com/chengcj-upenn)
-* **Name** - Devpost ID – Penn email – [GitHub](https://github.com/user_name)
+* **Kaushik** - Devpost ID – Penn email – [GitHub](https://github.com/user_name)
 
 ## Usage
 
@@ -44,21 +44,21 @@ After updating these variables, you can then start using the application.
 
 Give a step-by-step rundown of how to **use** your project. Including screenshots in this section can be highly effective for highlighting specific features of your project.
 
-Step 1: run ./index.html
+**Step 1: run ./index.html**
 
 ![initial_state](images/app_initial_state.PNG)
 
-Step 2: input update intervals and your phone number and click button
+**Step 2: input update intervals and your phone number and click button**
 
 ![initial_state](images/app_input.PNG)
 
-Step 3: output of the app includes weather info and air quality
+**Step 3: output of the app includes weather info and air quality**
 
 ![initial_state](images/app_output.PNG)
 
-Step 4: pause update by click on the button again
+**Step 4: pause update by click on the button again**
 
-![initial_state](images/app_pause.PNG)
+![initial_state](images/app_pause.png)
 
 
 ## Additional information
