@@ -1,7 +1,7 @@
 $(document).ready(function () {
-  var TWILIO_SID = "your sid";
-  var TWILIO_PHONE = "your phone";
-  var TWILIO_KEY = "your key";
+  var TWILIO_SID = "your Twilio SID";
+  var TWILIO_PHONE = "your Twilio phone";
+  var TWILIO_KEY = "your Twilio KEY";
   var count = 0;
   var lat;
   var lon;
