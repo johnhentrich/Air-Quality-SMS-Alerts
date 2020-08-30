@@ -12,7 +12,6 @@ Include the link to your Devpost project page here: [Devpost](https://...)
 
 * **John Hentrich** - johnhentrich – hentrich@seas.upenn.edu – [GitHub](https://github.com/johnhentrich)
 * **Chin Jung Cheng** - chengcj – chengcj@seas.upenn.edu – [GitHub](https://github.com/chengcj-upenn)
-* **Kaushik** - Devpost ID – Penn email – [GitHub](https://github.com/user_name)
 
 ## Usage
 
