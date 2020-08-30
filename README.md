@@ -6,7 +6,7 @@
 
 Javascript application that sends SMS alerts for air quality and weather notifications.
 
-Include the link to your Devpost project page here: [Devpost](https://...)
+Include the link to your Devpost project page here: [Devpost](https://devpost.com/software/air-quality-sms-alerts)
 
 ### Authors
 
