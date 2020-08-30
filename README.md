@@ -42,7 +42,7 @@ After updating these variables, you can then start using the application.
 
 ### Deployment
 
-Give a step-by-step rundown of how to **use** your project. Including screenshots in this section can be highly effective for highlighting specific features of your project.
+Step-by-step rundown of how to use our application.
 
 **Step 1: run ./index.html**
 
@@ -67,10 +67,10 @@ Give a step-by-step rundown of how to **use** your project. Including screenshot
 
 Which frameworks, libraries, or other tools did you use to create your project?
 
-* [Tool 1](https://openweathermap.org/api) - Weather info
-* [Tool 2](https://www.iqair.com/us/air-pollution-data-api) - Air quality info
-* [Tool 3](https://www.twilio.com/docs/usage/api) - Text message service
+* [Tool 1](https://openweathermap.org/api) - Weather info API
+* [Tool 2](https://www.iqair.com/us/air-pollution-data-api) - Air quality info API
+* [Tool 3](https://www.twilio.com/docs/usage/api) - Text message service API
 
 ### Acknowledgments
 
-Inspired by California wildfires and the need to know when the air quality is good enough to open the window.
+Motivated by California wildfires and the need to know when the air quality is good enough to open the window.
