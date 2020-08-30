@@ -1,7 +1,7 @@
 $(document).ready(function () {
-  var TWILIO_SID = "AC68e2917af55b208fc43fcb21a6a6bde6";
-  var TWILIO_PHONE = "13057833843";
-  var TWILIO_KEY = "92f0e2372694e9a522cb8b415e5212d0";
+  var TWILIO_SID = "your sid";
+  var TWILIO_PHONE = "your phone";
+  var TWILIO_KEY = "your key";
   var count = 0;
   var lat;
   var lon;
