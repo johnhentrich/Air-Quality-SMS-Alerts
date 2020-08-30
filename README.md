@@ -45,15 +45,19 @@ After updating these variables, you can then start using the application.
 Give a step-by-step rundown of how to **use** your project. Including screenshots in this section can be highly effective for highlighting specific features of your project.
 
 Step 1: run ./index.html
+
 ![initial_state](images/app_initial_state.PNG)
 
 Step 2: input update intervals and your phone number and click button
+
 ![initial_state](images/app_input.PNG)
 
 Step 3: output of the app includes weather info and air quality
+
 ![initial_state](images/app_output.PNG)
 
 Step 4: pause update by click on the button again
+
 ![initial_state](images/app_pause.PNG)
 
 
