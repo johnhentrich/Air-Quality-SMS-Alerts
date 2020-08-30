@@ -1,73 +1,74 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en">
 
 <head>
   <meta charset="UTF-8">
   <title>SMS Air Quality and Weather Alerts</title>
   <script src="https://use.fontawesome.com/ae22b76c22.js"></script>
-  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
-  <link rel="stylesheet" href="css/style.css">  
+  <link rel='stylesheet prefetch'
+    href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
-  <div class="container"id="box2">
-    <div class="text-center" >
+  <div class="container" id="box2">
+    <div class="text-center">
       <h1 class="text-primary">SMS Air Quality and Weather Alerts</h1>
       <br>
       <p>Please provide fill out the form below and click the signup button if you would like alerts.</p>
-            <br>
+      <br>
       <p>Keep this tab open after sign up for as long as you would like to receive the alerts.</p>
-            <br>
-      <div class="well col-md-offset-1 col-md-5">            
+      <br>
+      <div class="well col-md-offset-1 col-md-5">
         <div id="custom-search-input">
-          <div class="input-group"> 
+          <div class="input-group">
             Update Frequency (# of Minutes)
             <input type="text" name="minutes" class="form-control input-lg" placeholder="" />
           </div>
         </div>
         <p></p>
         <br>
-        <div class="input-group"> 
+        <div class="input-group">
           Phone # for SMS Alerts / Updates
           <input type="text" name="phone" class="form-control input-lg" placeholder="" />
         </div>
-                <br> 
-<div>
-    <input type="checkbox" id="aqi" name="aqi" value="aqi">
-    <label for="aqi">Air Quality</label>
-  </div>
-  <div>
-    <input type="checkbox" id="rain" name="rain" value="rain">
-    <label for="rain">Weather Description</label>
-  </div>      
+        <br>
+        <div>
+          <input type="checkbox" id="aqi" name="aqi" value="aqi">
+          <label for="aqi">Air Quality</label>
+        </div>
+        <div>
+          <input type="checkbox" id="desc" name="desc" value="desc">
+          <label for="desc">Weather Description</label>
+        </div>
         <p></p>
         <span class="btn">
-          <button class="btn btn-info btn formSubmit">
-           Sign Up For Alerts
-         </button>
-       </span>
-     </div>
+          <button class="btn btn-info btn formSubmit" id="submit-button">
+            Sign Up For Alerts
+          </button>
+        </span>
+      </div>
 
-<div class="well col-md-offset-1 col-md-5">   
-    <p> Latest Weather Information: </p>
-      <p class=" weather"></p>
-      <p class=" weather2"></p>
-      <p class=" weather3"></p>
-      <p class=" weather4"></p>
-      <p class=" weather5"></p>
-      <p class=" weather6"></p>
-      <p class=" weather7"></p>
-      <p class=" weather8"></p>
-      <p class=" weather9"></p>
-      <p class=" weather10"></p>
-   </div>
+      <div class="well col-md-offset-1 col-md-5">
+        <p> Latest Weather Information: </p>
+        <p class=" weather"></p>
+        <p class=" weather2"></p>
+        <p class=" weather3"></p>
+        <p class=" weather4"></p>
+        <p class=" weather5"></p>
+        <p class=" weather6"></p>
+        <p class=" weather7"></p>
+        <p class=" weather8"></p>
+        <p class=" weather9"></p>
+        <p class=" weather10"></p>
+      </div>
 
 
-   </div> 
- </div> 
-</div> 
- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
- <script  src="js/index.js"></script>
+    </div>
+  </div>
+  </div>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+  <script src="js/index.js"></script>
 </body>
 
 </html>
