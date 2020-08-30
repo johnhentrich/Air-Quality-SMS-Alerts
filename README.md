@@ -19,6 +19,8 @@ You start the application by using a browser to open the **./index.html** file
 
 In the application, you will need to enter the update frequencey (in minutes) and your cell phone number (with country code) to get the SMS alerts.
 
+See [demo video](https://drive.google.com/file/d/1OsTwPd74iawTNBvfjvugiLDali_jiwMm/view?usp=sharing)
+
 ### Prerequisites
 
 You just need a browser that enables javascript.
